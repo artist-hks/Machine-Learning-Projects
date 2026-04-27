@@ -9,7 +9,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Actively%20Growing-brightgreen?style=for-the-badge)
 
-**A curated collection of end-to-end Machine Learning projects — from raw data to trained models.**
+**A curated collection of end-to-end Machine Learning projects from raw data to trained models.**
 
 *Built by [Hemant Sharma](https://github.com/artist-hks) · [Portfolio](https://artist-hks.vercel.app) · [LinkedIn](https://www.linkedin.com/in/artisthks)*
 
